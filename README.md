@@ -11,7 +11,31 @@ On September 26, 2013, OpenCoin officially changed its name to Ripple Labs, Inc.
 * Main problem it solves: Developed as a currency for powering the Ripple Network, XRP allows people to send money digitally. The cryptocurrency came into being as an upgrade of Bitcoin with the aim of solving issues of high transaction costs and slow transaction speeds associated with the popular digital coin.
 * There are two kinds of intended users for this ripple network
     * Network Members
+        * Banks: looking to process payments for corporates and consumers. Some would also process payments for and provide 
+        liquidity to other banks. These banks would leverage RippleNet to enhance their servicing to existing
+        customers and drive acquisition. 
+        * Payment:  providers looking to supply liquidity and expand payout
+        reach for banks to increase their payment volumes. 
     * Network Users
+        * Platform businesses looking to send disbursements of high 
+        volume and low value to a global base of suppliers, merchants
+        and employees.
+        * Corporate treasury departments
+        looking to send large disbursements
+        across their global supply chain
+        to gain greater capital efficiency,
+        visibility and control.
+        * Banks and payment providers
+        looking to only send payments,
+        rather than process them, to
+        overcome the high costs and
+        inefficiencies of correspondent
+        banking. 
+        * Consumers looking to send
+        global payments through their
+        bank or payment provider for
+        a cost-efficient, real-time and
+        traceable option. 
         
 
 What solution does this company offer that their competitors do not or cannot

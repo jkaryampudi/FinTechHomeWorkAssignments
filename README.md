@@ -8,9 +8,12 @@ OpenCoin began development of the ripple protocol (RTXP) and the Ripple payment 
 
 On September 26, 2013, OpenCoin officially changed its name to Ripple Labs, Inc.
 ## Business Activities:
-* What specific financial problem is the company or project trying to solve?
-* Who is the company's intended customer? Is there any information about the
-market size of this set of customers?
+* Main problem it solves: Developed as a currency for powering the Ripple Network, XRP allows people to send money digitally. The cryptocurrency came into being as an upgrade of Bitcoin with the aim of solving issues of high transaction costs and slow transaction speeds associated with the popular digital coin.
+* There are two kinds of intended users for this ripple network
+    * Network Members
+    * Network Users
+        
+
 What solution does this company offer that their competitors do not or cannot
 offer? (What is the unfair advantage they utilize?)
 * Which technologies are they currently using, and how are they implementing them?

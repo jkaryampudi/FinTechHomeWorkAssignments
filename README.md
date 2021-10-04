@@ -64,10 +64,8 @@ engineering blog or use sites like Stackshare to find this information.)
     * Settlement speed is 3.8 s which is faster than most of the available payment networks available
     * XRP(token used by Ripple) volume has increased to 100 Billion USD
 ## Recommendations
-* If you were to advise the company, what products or services would you suggest
-they offer? (This could be something that a competitor offers, or use your
-imagination!)
-* Why do you think that offering this product or service would benefit the
-company?
-* What technologies would this additional product or service utilize?
-* Why are these technologies appropriate for your solution?
+* If your business is to provide payments (send and receive) to your customers, you can make use of the products offered by ripple
+    * xCurrent – Used to process payments
+    * xRapid – Used to source liquidity
+    * xVia – Used to send payments
+  Read this artivle to understand more about these product suit (https://coinrivet.com/guides/altcoins/a-guide-to-the-ripple-product-suite/)

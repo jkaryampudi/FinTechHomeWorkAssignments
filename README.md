@@ -1,10 +1,12 @@
-# TITLE
+# RIPPLE
 ## Overview and Origin
-* Name of company
-* When was the company incorporated?
-* Who are the founders of the company?
-* How did the idea for the company (or project) come about?
-* How is the company funded? How much funding have they received?
+* Ripple is a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc., a US-based technology company. Released in 2012, Ripple is built upon a distributed open source protocol, and supports tokens representing fiat currency, cryptocurrency, commodities, or other units of value such as frequent flier miles or mobile minutes.[2] Ripple purports to enable "secure, instantly and nearly free global financial transactions of any size with no chargebacks." The ledger employs the native cryptocurrency known as XRP.
+* The founders of Ripple labs are Jed McCaleb and Chris Larsen
+* Ryan Fugger conceived Ripple in 2004 after working on a local exchange trading system in Vancouver. The intent was to create a monetary system that was decentralized and could effectively empower individuals and communities to create their own money. Fugger later built the first iteration of this system, RipplePay.com. Concurrently, in May 2011, Jed McCaleb began developing a digital currency system in which transactions were verified by consensus among members of the network, rather than by the mining process used by Bitcoin. In August 2012, Jed McCaleb hired Chris Larsen and they approached Ryan Fugger with their digital currency idea. After discussions with McCaleb and long-standing members of the Ripple community, Fugger handed over the reins. In September 2012, Chris Larsen and Jed McCaleb co-founded the corporation OpenCoin.[3]
+
+OpenCoin began development of the ripple protocol (RTXP) and the Ripple payment and exchange network. On April 11, 2013, OpenCoin announced it had closed an angel round of funding with several venture capital firms. That same month, OpenCoin acquired SimpleHoney to help it popularize virtual currencies and make them easier for average users.[4]
+
+On September 26, 2013, OpenCoin officially changed its name to Ripple Labs, Inc.
 ## Business Activities:
 * What specific financial problem is the company or project trying to solve?
 * Who is the company's intended customer? Is there any information about the
